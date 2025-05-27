@@ -1,2 +1,0 @@
-# deepreg_Jellyfish-main
-
